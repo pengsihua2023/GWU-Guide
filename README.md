@@ -15,9 +15,9 @@ https://my.gwu.edu/mod/pws/courses.cfm?campId=1&termId=202502&subjId=UW
 https://my.gwu.edu/mod/pws/courses.cfm?campId=4&termId=202203&subjId=ECON 　  　
   
 
-- MATH 1231（单变量微积分I，3学分）    
+- MATH 1220（Calculus with Precalculus，3学分）    
   https://my.gwu.edu/mod/pws/courses.cfm?campId=1&termId=202503&subjId=MATH  
-  MATH 1231在网页下半部分  　   
+  MATH 1220 在网页下半部分  　   
 
 - BADM 1001（新生商科导论I，1学分）
     
