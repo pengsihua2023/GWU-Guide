@@ -6,7 +6,7 @@ https://my.gwu.edu/mod/pws/courses.cfm?campId=1&termId=202503&subjId=MATH
 
 - 数学 I  
 课程号 34412    
-老师    
+老师 Srinivasan, K     
 教室    
 时间     
 开课时间期间：08/25/25 - 12/08/25  
