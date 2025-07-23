@@ -13,9 +13,10 @@ https://my.gwu.edu/mod/pws/courses.cfm?campId=1&termId=202103&subjId=BISC
 •  UW 1020（大学写作，4学分） 
 https://my.gwu.edu/mod/pws/courses.cfm?campId=1&termId=202502&subjId=UW  
 
-•  ECON 1011（微观经济学原理，3学分） 
+•  ECON 1011（微观经济学原理，3学分） 　　
 https://my.gwu.edu/mod/pws/courses.cfm?campId=4&termId=202203&subjId=ECON  
 
-•  MATH 1231（单变量微积分I，3学分） 
+•  MATH 1231（单变量微积分I，3学分） 　　
+　　
 •  BADM 1001（新生商科导论I，1学分）
 
