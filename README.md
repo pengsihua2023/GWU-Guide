@@ -2,7 +2,7 @@
 # 选课总网址
 https://my.gwu.edu/mod/pws/  
 
-课程搜索网址：  
+# 课程搜索网址：  
 https://my.gwu.edu/mod/pws/coursesearch.cfm  
 
 # 五门课程编号  
