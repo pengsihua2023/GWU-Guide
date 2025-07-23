@@ -1,4 +1,6 @@
 # GWU-Guide
+# 选课总网址
+https://my.gwu.edu/mod/pws/  
 
 课程搜索网址：  
 https://my.gwu.edu/mod/pws/coursesearch.cfm  
