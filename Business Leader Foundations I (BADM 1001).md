@@ -15,4 +15,5 @@ TR
 时间  M 05:10PM - 06:00PM	 
 开课时间期间：08/25/25 - 12/08/25  
 
+<img width="802" height="1135" alt="image" src="https://github.com/user-attachments/assets/f50a9cf9-c908-4e59-a010-94440ca34cc2" />
 
