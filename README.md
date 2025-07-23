@@ -7,9 +7,9 @@ https://my.gwu.edu/mod/pws/coursesearch.cfm
 
 # 五门课程编号  
   
-- UW 1020（大学写作，4学分）   
-　　
-https://my.gwu.edu/mod/pws/courses.cfm?campId=1&termId=202502&subjId=UW  
+- UW 1020（大学写作，4学分）
+   https://my.gwu.edu/mod/pws/courses.cfm?campId=1&termId=202502&subjId=UW  
+
 
 - ECON 1011（微观经济学原理，3学分） 　　  
 　　
