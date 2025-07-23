@@ -36,7 +36,7 @@ https://my.gwu.edu/mod/pws/courses.cfm?campId=1&termId=202103&subjId=BISC
 - 周四：R（Thursday）
 - 周五：F（Friday）
 - 
-## 典型一天时间
+## 典型一天时间 （举例）
 - 8:00 AM - 9:15 AM：数学课程（Math 1231，75分钟）  
 - 9:30 AM - 10:45 AM：历史课程（HIST 1011，75分钟）
 - 11:00 AM - 1:00 PM：期末考试（ECON 1001，2小时，假设安排在上午）
