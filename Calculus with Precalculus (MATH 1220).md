@@ -5,7 +5,7 @@ https://my.gwu.edu/mod/pws/courses.cfm?campId=1&termId=202503&subjId=MATH
 还要同时注册一个one recitation section: MATH 1220.30-.32   
 
 - 数学 I  
-课程号     
+课程号 34412    
 老师    
 教室    
 时间     
