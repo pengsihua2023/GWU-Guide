@@ -11,9 +11,9 @@ https://my.gwu.edu/mod/pws/coursesearch.cfm
 https://my.gwu.edu/mod/pws/courses.cfm?campId=1&termId=202502&subjId=UW  
 
 
-- ECON 1011（微观经济学原理，3学分） 　　  
-　　
-https://my.gwu.edu/mod/pws/courses.cfm?campId=4&termId=202203&subjId=ECON    
+- ECON 1011（微观经济学原理，3学分）
+https://my.gwu.edu/mod/pws/courses.cfm?campId=4&termId=202203&subjId=ECON 　  　
+   
 
 - MATH 1231（单变量微积分I，3学分）    
   https://my.gwu.edu/mod/pws/courses.cfm?campId=1&termId=202503&subjId=MATH  
