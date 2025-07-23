@@ -1,5 +1,5 @@
-## 微观经济学原理'
-### ECON 1011（微观经济学原理，3学分）  
+## Principles of Economics I
+### ECON 1011（Principles of Economics I，3学分）  
 
 [https://my.gwu.edu/mod/pws/courses.cfm?campId=4&termId=202203&subjId=ECON  ](https://my.gwu.edu/mod/pws/coursesearch.cfm)  
 在Course Number中用“1011”搜索“  
